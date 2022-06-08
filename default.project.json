@@ -1,0 +1,9 @@
+{
+  "name": "rblx-api",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    }
+  }
+}
