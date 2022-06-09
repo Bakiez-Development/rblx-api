@@ -1,3 +1,3 @@
 return {
-    url = "https://canary.roranking.com/api"
+    url = "https://bakiezbakery.com/api"
 }
